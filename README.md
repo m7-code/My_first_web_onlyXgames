@@ -127,22 +127,6 @@ password_verify($password, $hashedPassword);
 
 * Input validation and prepared statements are recommended everywhere
 
----
 
-## 📌 Future Improvements
 
-* Session-based authentication
-* Logout functionality
-* Admin dashboard
-* Password reset feature
-* Improved database structure
 
----
-
-## 👨‍💻 Author
-
-Created as a learning project to demonstrate **basic web development and authentication concepts** using PHP and MySQL.
-
----
-
-⭐ If you like this project, feel free to improve and expand it!
